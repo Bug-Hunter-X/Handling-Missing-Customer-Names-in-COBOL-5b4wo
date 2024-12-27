@@ -1,0 +1,1 @@
+This example demonstrates a common error in COBOL programs: failing to properly handle blank or space-filled input fields.  The initial code doesn't check for empty customer names, which can cause errors. The solution shows how to correctly check for this condition and display a user-friendly message, preventing program crashes.
